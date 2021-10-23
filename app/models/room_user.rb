@@ -5,3 +5,4 @@ class RoomUser < ApplicationRecord
   validates :name, presence: true
 
 end
+
